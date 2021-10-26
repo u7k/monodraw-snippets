@@ -1,0 +1,264 @@
+{
+  "objects" : {
+    "obj-0" : {
+      "locked" : false,
+      "hidden" : false,
+      "shadow_enabled" : false,
+      "name_edited" : true,
+      "content_blended" : true,
+      "shadow_color" : 4278190080,
+      "type_id" : 3,
+      "shape_type" : 8,
+      "origin" : "0,0",
+      "tag" : 0,
+      "name" : "Computer",
+      "position_refs" : [
+
+      ],
+      "surface_pos_enabled" : true,
+      "content_color" : 4278190080,
+      "canvas_origin" : true,
+      "subshape_refs" : [
+        "obj-2",
+        "obj-3"
+      ],
+      "shadow_offset" : "0,0",
+      "shadow_intensity" : 4,
+      "subshape_selection" : false,
+      "shadow_tixel" : "",
+      "cthrough" : false,
+      "attachable" : false
+    },
+    "obj-7" : {
+      "sweep" : 0,
+      "inset_left" : 0,
+      "position" : 0,
+      "inset_top" : 0,
+      "color" : 4278190080,
+      "alignment" : 0,
+      "movement" : 0,
+      "inset_right" : 0,
+      "enabled" : true,
+      "type_id" : 27,
+      "text" : "              ,---------------------------,\n              |  \/---------------------\\  |\n              | |                       | |\n              | |                       | |\n              | |                       | |\n              | |                       | |\n              | |                       | |\n              |  \\_____________________\/  |\n              |___________________________|\n            ,---\\_____     []     _______\/------,\n          \/         \/______________\\           \/|\n        \/___________________________________ \/  | ___\n        |                                   |   |    )\n        |  _ _ _                 [-------]  |   |   (\n        |  o o o                 [-------]  |  \/    _)_\n        |__________________________________ |\/     \/  \/\n    \/-------------------------------------\/|      ( )\/\n  \/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/ \/\n\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/ \/\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "inset_bottom" : 0,
+      "inside_border" : true
+    },
+    "obj-10" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    },
+    "obj-15" : {
+      "sweep" : 0,
+      "inset_left" : 0,
+      "position" : 1,
+      "inset_top" : 0,
+      "color" : 4278190080,
+      "alignment" : 1,
+      "movement" : 0,
+      "inset_right" : 0,
+      "enabled" : true,
+      "type_id" : 27,
+      "text" : "",
+      "inset_bottom" : 0,
+      "inside_border" : true
+    },
+    "obj-5" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-14" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-3" : {
+      "content_blended" : true,
+      "model_text" : "obj-7",
+      "mps_border_color" : 4278190080,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "mps_bckg_color" : 4278190080,
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-4",
+      "border_tixel_br" : "",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "cthrough" : false,
+      "background_type" : 2,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "55,20",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,0",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "             …",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-5",
+      "origin" : "56,20",
+      "frame_offset" : "0,0",
+      "content_color" : 4278190080,
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-4"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 4,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : false,
+      "shadow_color" : 4278190080,
+      "border_tixels" : "obj-6",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-1" : {
+      "type_id" : 13,
+      "shapes" : [
+        "obj-0"
+      ]
+    },
+    "obj-13" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-8" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "80,23"
+    },
+    "obj-6" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-12" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    },
+    "obj-4" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "0,0"
+    },
+    "obj-11" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-2" : {
+      "content_blended" : true,
+      "model_text" : "obj-15",
+      "mps_border_color" : 4278190080,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "mps_bckg_color" : 4278190080,
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-8",
+      "border_tixel_br" : "",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "cthrough" : false,
+      "background_type" : 2,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "21,5",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "2,1",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "\nismet\n",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-13",
+      "origin" : "-6,-1",
+      "frame_offset" : "0,0",
+      "content_color" : 4278190080,
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-8",
+        "obj-9",
+        "obj-10",
+        "obj-11",
+        "obj-12"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 4,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : false,
+      "shadow_color" : 4278190080,
+      "border_tixels" : "obj-14",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-9" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    }
+  },
+  "header" : {
+    "v" : 3
+  }
+}

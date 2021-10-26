@@ -1,0 +1,111 @@
+{
+  "objects" : {
+    "obj-2" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "0,0"
+    },
+    "obj-5" : {
+      "sweep" : 0,
+      "inset_left" : 0,
+      "position" : 0,
+      "inset_top" : 0,
+      "color" : 4278190080,
+      "alignment" : 0,
+      "movement" : 0,
+      "inset_right" : 0,
+      "enabled" : true,
+      "type_id" : 27,
+      "text" : ",----------------------------------------------------,\n| [][][][][]  [][][][][]  [][][][]  [][__]  [][][][] |\n|                                                    |\n|  [][][][][][][][][][][][][][_]    [][][]  [][][][] |\n|  [_][][][][][][][][][][][][][ |   [][][]  [][][][] |\n| [][_][][][][][][][][][][][][]||     []    [][][][] |\n| [__][][][][][][][][][][][][__]    [][][]  [][][]|| |\n|   [__][________________][__]              [__][]|| |\n`----------------------------------------------------'\n",
+      "inset_bottom" : 0,
+      "inside_border" : true
+    },
+    "obj-1" : {
+      "type_id" : 13,
+      "shapes" : [
+        "obj-0"
+      ]
+    },
+    "obj-4" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-0" : {
+      "content_blended" : true,
+      "model_text" : "obj-5",
+      "mps_border_color" : 4278190080,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "mps_bckg_color" : 4278190080,
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-2",
+      "border_tixel_br" : "",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "cthrough" : false,
+      "background_type" : 2,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "54,9",
+      "canvas_origin" : true,
+      "shadow_enabled" : false,
+      "subshape_refs" : [
+
+      ],
+      "content_offset" : "0,0",
+      "border_tixel_ts" : "",
+      "name" : "Text Field 22",
+      "border_tixel_rs" : "",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-3",
+      "origin" : "97,31",
+      "frame_offset" : "0,0",
+      "content_color" : 4278190080,
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-2"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 4,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : false,
+      "shadow_color" : 4278190080,
+      "border_tixels" : "obj-4",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-3" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    }
+  },
+  "header" : {
+    "v" : 3
+  }
+}
